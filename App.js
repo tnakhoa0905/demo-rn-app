@@ -1,19 +1,3 @@
-import {
-  SafeAreaView,
-  StyleSheet,
-  Text,
-  View,
-  Image,
-  StatusBar,
-  ScrollView,
-} from "react-native";
-import {
-  IconButton,
-  MD3Colors,
-  Icon,
-  TextInput,
-  Button,
-} from "react-native-paper";
 import React from "react";
 import LoginPage from "./src/pages/login_page";
 import { NavigationContainer } from "@react-navigation/native";

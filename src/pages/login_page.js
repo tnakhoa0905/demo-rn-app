@@ -9,7 +9,6 @@ import {
 } from "react-native";
 import {
   IconButton,
-  MD3Colors,
   Icon,
   TextInput,
   Button,
@@ -114,7 +113,7 @@ export default function LoginPage() {
               Đăng Nhập
             </Button>
             <View style={[styles.rowSpaceBtw, { marginTop: 8 }]}>
-              <Text style={styles.textLogin}>Quên mật khẩu?</Text>
+              <Text style={styles.textLogin}>Quên mật khẩu</Text>
               <Text style={styles.textLogin}>Đăng nhập bằng SMS</Text>
             </View>
             <View style={[styles.rowChild, { marginTop: 16 }]}>

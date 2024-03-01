@@ -1,6 +1,5 @@
-import { View } from "react-native";
 import { useEffect } from "react";
-import { SafeAreaView, StatusBar, StyleSheet, Image, Text } from "react-native";
+import { SafeAreaView, StatusBar, StyleSheet, Image, Text, View  } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 
 export default function SplashPage() {
